@@ -1,0 +1,17 @@
+#todoList{
+ margin-left: 35%;
+}
+#searchTxt{
+   margin-left: 35%;
+
+}
+#addTodoTxt{
+   margin-left: 35%;
+
+}
+body{
+  background-image: url("background.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-origin: border-box;
+}
